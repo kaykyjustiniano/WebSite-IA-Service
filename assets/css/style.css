@@ -1,0 +1,25 @@
+.conteudoQuemSomos{
+    background-color: #05192a;
+    overflow: auto;
+}
+
+.servicos{
+    width: 50%;
+    margin: 60px auto;
+    background-color: #061f35;
+    border-radius: 10px;
+    padding: 50px;
+    text-align: center;
+}
+.servicoTexto{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+    color: #81c4ff;
+    font-size: 1.2em;
+}
+.servicoTextoIM{
+
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-weight: bold;
+}

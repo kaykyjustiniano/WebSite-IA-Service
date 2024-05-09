@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+header{
+    text-align: center;
+    background-color: rgb(4, 35, 63);
+    padding: 20px;
+}
+
+.texto-empresa{
+    color: #1190ff;
+    font-weight: 600;
+    font-size: 2em;
+}
+
+.navegacaoPrincipal{
+    background-color: #06345d;
+    padding: 20px;
+    text-align: center;
+}
+
+.navegacaoPrincipal a{
+    text-decoration: none;
+    margin: 0 50px;
+    font-size: 1.5em;
+    color: #7cc2ff;
+}
+
+.navegacaoPrincipal a:hover{
+    color:  rgb(49, 110, 163);
+}

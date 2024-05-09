@@ -1,0 +1,36 @@
+.conteiner{
+    background-color: #05192a;
+    text-align: center;
+    padding: 80px;
+
+}
+.secao-contato{
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.contato-texto{
+    font-size: 1.5em;
+    font-weight: 100;
+    padding: 20px;
+    width: 40%;
+    margin: 0 auto;
+    border: 1px solid #105088;
+    border-radius: 10px;
+    background-color: #08253f;
+}
+
+.secao-numero{
+    margin-top: 20px;
+    text-align: center;
+}
+.secao-numero .numero, .phone {
+    display: block;
+    font-size: 2em;
+    text-decoration: none;
+    color: #00a2ff;
+    margin-bottom: 20px;
+}
+.secao-email{
+    margin-top: 40px;
+}

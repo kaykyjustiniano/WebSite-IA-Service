@@ -1,0 +1,64 @@
+.conteinerServicos{
+    background-color: #05192a;
+    font-size: 1.1em;
+    padding: 60px;
+    overflow: auto;
+}
+.nossosServiços{
+    width: 40%;
+    margin: auto;
+}
+.servicosListas li{
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.texto-servico{
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+.texto-secundario{
+    color: #2097ff;
+    padding: 20px 0;
+}
+
+
+
+
+
+
+.conteinerMaisInfo{
+    background-color: #082946;
+    padding: 80px;
+    text-align: center;
+}
+
+.linkcontato{
+    padding: 60px;
+    text-align: center;
+}
+
+.linkcontato a{
+    display: block;
+    max-width: 200px;
+    text-decoration: none;
+    font-size: 1.2em;
+    background-color: #008eb9;
+    color: white;
+    padding: 20px 60px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.linkcontato a:hover {
+    background-color: white;
+    color: black;
+}
+
+footer{
+    text-align: center;
+    padding: 80px;
+    background-color: #02111f;
+    color: gray;
+}
